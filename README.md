@@ -2,6 +2,9 @@
 
 This robust SaaS platform is meticulously crafted using Next.js, tRPC, TypeScript, Prisma, and Tailwind CSS. It incorporates a range of cutting-edge technologies to deliver a seamless, scalable, and visually appealing experience.
 
+![Project Image](/public/home.jpg)
+
+
 ## Key Features
 
 - Fully Featured SaaS Solution: Designed from the ground up to provide a comprehensive service.

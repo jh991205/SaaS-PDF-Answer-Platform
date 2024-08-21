@@ -1,6 +1,6 @@
 # Fullstack SaaS Platform
 
-This robust SaaS platform is meticulously crafted using a comprehensive stack that includes Next.js, tRPC, TypeScript, Prisma, and Tailwind CSS for the frontend, and leverages PostgreSQL with Supabase, Stripe for payment processing, and Pinecone for vector storage on the backend. It incorporates a range of technologies to deliver a seamless, scalable, and visually appealing experience, ensuring robust performance and data handling across all aspects of the platform.
+This robust SaaS platform is crafted using a comprehensive stack that includes Next.js, tRPC, TypeScript, Prisma, and Tailwind CSS for the frontend, and leverages PostgreSQL with Supabase, Stripe for payment processing, and Pinecone for vector storage on the backend. It incorporates a range of technologies to deliver a seamless, scalable, and visually appealing experience, ensuring robust performance and data handling across all aspects of the platform.
 
 
 ![Project Image](/public/home.jpg)
